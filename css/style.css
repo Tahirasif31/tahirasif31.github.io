@@ -3001,3 +3001,16 @@ footerbottom-part start
 /*===================== 
 footerbottom-part end
 ====================  */
+
+.terms-list {
+  list-style: none;
+}
+.terms-list p {
+  margin-top: 10px;
+}
+.terms-list h4 {
+  margin-top: 10px;
+}
+.term-inner-list li {
+  margin-top: 5px !important;
+}
