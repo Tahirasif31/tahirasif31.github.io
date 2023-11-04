@@ -356,6 +356,13 @@ banner-part start
   margin-bottom: 10px;
 }
 
+#banner-part .banner-text4 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 50px;
+  font-weight: 300;
+  color: #0f2f44;
+}
+
 #banner-part .banner-details {
   font-family: "Open Sans", sans-serif;
   font-size: 14px;

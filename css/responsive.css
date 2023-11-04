@@ -11,7 +11,13 @@ navbar-part start
   }
   .container .banner-text2 {
     font-size: 40px !important;
-    margin: 10px 0 5px 0 !important;
+    margin: 5px 0 0 0 !important;
+  }
+  .container .banner-text3 {
+    margin: 0 !important;
+  }
+  .container .banner-text4 {
+    font-size: 27px !important;
   }
 
   #header-top .wel {
