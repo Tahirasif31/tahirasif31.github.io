@@ -102,7 +102,7 @@ nav {
 }
 
 .navbar .navbar-nav {
-  display: none;
+  display: block;
 }
 
 .navbar ul li {
