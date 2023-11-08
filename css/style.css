@@ -107,8 +107,8 @@ nav {
 
 .navbar ul li {
   display: block;
-  margin-right: 15px;
-  padding: 27px 12px;
+  margin-right: 5px;
+  padding: 27px 8px;
   transition: all linear 0.5s;
   -webkit-transition: all linear 0.5s;
   -moz-transition: all linear 0.5s;

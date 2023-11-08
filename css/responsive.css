@@ -1651,7 +1651,8 @@ footer-part end
     padding-right: 0;
   }
   .navbar ul li {
-    margin-right: 7px;
+    margin-right: 5px;
+    padding: 27px 5px;
   }
   /*===================== 
 navbar-part end
