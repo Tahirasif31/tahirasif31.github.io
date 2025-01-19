@@ -3,6 +3,9 @@ import { GoogleGenerativeAI } from "@google/generative-ai";
 
 const genAI = new GoogleGenerativeAI("--your-gemini-key");
 
+
+// comment added
+
 async function chatWithBook(userQuestion) {
   try {
     const pc = new Pinecone({ 
